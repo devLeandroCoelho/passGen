@@ -1,0 +1,10 @@
+/* Estilos personalizados para a barra de força */
+.progress-bar.weak {
+    background-color: #dc3545; /* Vermelho */
+}
+.progress-bar.medium {
+    background-color: #ffc107; /* Amarelo */
+}
+.progress-bar.strong {
+    background-color: #28a745; /* Verde */
+}
